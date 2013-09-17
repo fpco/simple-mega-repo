@@ -19,6 +19,6 @@ library
   exposed-modules:     Mega2
   -- other-modules:       
   -- other-extensions:    
-  build-depends:       base >=4.6 && <4.7, mega1 >=0.1 && <0.2
+  build-depends:       base >=4 && <10, mega1
   -- hs-source-dirs:      
   default-language:    Haskell2010
